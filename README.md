@@ -15,5 +15,5 @@ There were missing values that treated
 
 ## Exploratory Data Analysis
 
-<left><img src="https://github.com/Ariyo347/ReCell-Project/assets/113588909/eb82d45e-de26-474e-9fd1-a662a3acddb0" width="100" height="100"></left>
+<left><img src="https://github.com/Ariyo347/ReCell-Project/assets/113588909/eb82d45e-de26-474e-9fd1-a662a3acddb0" width="200" height="200"></left>
 
