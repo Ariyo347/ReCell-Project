@@ -14,7 +14,7 @@ The dataset was mostly clean for modelling. Certain features were engineered int
 There were missing values that treated
 
 ## Exploratory Data Analysis
-I examined the data distributions and value counts for the various category variables. The pivot tables' highlights are shown below.
+I examined the data distributions and value counts for various features. Some of the insightful plots are highlighted below.
 <left><img src="https://github.com/Ariyo347/ReCell-Project/assets/113588909/eb82d45e-de26-474e-9fd1-a662a3acddb0" width="400" height="400"></left>
 <right><img src="https://github.com/Ariyo347/ReCell-Project/assets/113588909/aae3010b-ce48-4b68-9982-3797e9c1b9bd" width="400" height="400"></right>
 
