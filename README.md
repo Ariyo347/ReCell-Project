@@ -21,3 +21,18 @@ I examined the data distributions and value counts for various features. Some of
 <center><img src="https://github.com/Ariyo347/ReCell-Project/assets/113588909/2d722ed6-e45d-4cf5-82a9-865c00068fce" width="800" height="400"></center>
 
 ## Model Building 
+The categorical variables were transformed into dummy variables. The data was split into train and test sets with the later having a 30% test size. A Linear Regression model was trained and optimized on the datasets.
+`Adj. R-squared` was the metric used to measure the performance of the model. 
+The following Linear Regression assumptions were checked to be true for the model:
+- No Multicollinearity
+- Linearity of variables
+- Independence of error terms
+- Normality of error terms
+- No Heteroscedasticity
+
+## Model Performance 
+The performance measures of the model is given below:
+
+| **RMSE** | **MAE** | **R-squared** | **Adj. R-squared** | **MAPE** |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 0.241434| 0.186649 |0.838387 |0.836013 |NaN |
