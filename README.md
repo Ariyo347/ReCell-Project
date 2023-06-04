@@ -3,7 +3,8 @@ Created a tool that estimates or predicts the future normalized used price of us
 Examined over 3,400 phones and 34 phone brands released between 2013 and 2020
 
 ## Code and Resources
-**Python Version:** 8.2.0
+**Python Version:** 3.9.12
+
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, statsmodels
 
 ## Data Cleaning
